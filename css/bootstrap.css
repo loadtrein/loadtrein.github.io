@@ -662,6 +662,10 @@ cite {
  margin-bottom: 200px;
 }
 
+.video h3{
+text-align: center;
+}
+
 ul,
 ol {
   margin-top: 0;
