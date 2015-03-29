@@ -4014,6 +4014,22 @@ margin-left:30px;
 margin-bottom:20px;
 }
 
+.footer-black{
+padding-top: 8px;
+padding-bottom: 2px;
+background-color: rgba(0, 0, 0, 0.9);
+border-radius: 2px;
+}
+
+.footer-black-text{
+margin-right:30px;
+margin-left:30px;
+}
+
+.footer-black-text p{
+color: rgba(255, 255, 255, 0.77);
+}
+
 .input-group {
   position: relative;
   display: table;
@@ -6667,19 +6683,19 @@ width:80%;
   text-shadow: none;
 }
 
-.welcome-left h1{
+.welcome-title h2{
 text-align: center;
-font-size: 50px;
 font-weight: bold;
 font-family:"Times New Roman";
 }
 
-.welcome-right h4{
+.welcome-text{
+margin-right: 80px;
+margin-left: 80px;
+margin-bottom: 70px;
+text-align: center;
 font-family: 'Roboto', sans-serif;
-font-size: 18px;
-margin-right: 20px;
 }
-
 
 @media screen and (min-width: 768px) {
   .carousel-control .glyphicons-chevron-left,
