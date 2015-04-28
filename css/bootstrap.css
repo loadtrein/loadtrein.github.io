@@ -622,6 +622,7 @@ cite {
   margin-bottom:300px;
   margin-left:20px;
   margin-right:70px;
+  text-align: justify;
 }
 
 .contact-details h3{
@@ -6208,6 +6209,7 @@ button.close {
 float: right;
 margin-left: 40px;
 margin-right: 70px;
+margin-bottom: 10px;
 border: 1px solid black;
 border-radius: 6px;
 }
