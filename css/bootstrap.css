@@ -682,6 +682,12 @@ cite {
  text-align: center;
 }
 
+.video-middle{
+ margin: 0 auto;
+ margin-top: 30px;
+ margin-bottom: 50px;
+ text-align: center;
+}
 
 ul,
 ol {
