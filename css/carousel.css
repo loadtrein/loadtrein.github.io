@@ -61,6 +61,32 @@ body {
   height: 500px;
 }
 
+.carousel-link-black { 
+  color: #222222; 
+}
+
+.carousel-link-black h1 { 
+  font-size: 40px; 
+}
+
+.carousel-link-black:hover { 
+  color: #e9eaed;
+  text-decoration: none;  
+}
+
+.carousel-link-white { 
+  color: #E9EAED; 
+}
+
+.carousel-link-white h1 { 
+  font-size: 45px; 
+}
+
+.carousel-link-white:hover { 
+  color: #428bca;
+  text-decoration: none;  
+}
+
 
 
 /* MARKETING CONTENT
