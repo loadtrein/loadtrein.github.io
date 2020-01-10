@@ -55,6 +55,9 @@
   background-color: #e5e5e5;
 }
 
+.img-border{
+  border-radius: 6px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
 
 /*
  * Extra utilities
